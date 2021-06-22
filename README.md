@@ -197,7 +197,9 @@ For this there are two scenarios:
 
 ### 14.3 Cross-Site Scripting (XSS)
 
-Cross-Site Scripting (XSS) is a security vulnerability which enables an attacker to place client side scripts (usually JavaScript) into web pagesMore Information. You can prevent it by sanitizing inputs from the user.
+Cross-Site Scripting (XSS) is a security vulnerability which enables an attacker to place client side scripts (usually JavaScript) into web pages. You can prevent it by sanitizing inputs from the user.
+
+#### More Information
 
 - [Prevent Cross-Site Scripting (XSS) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting)
 
