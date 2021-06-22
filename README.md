@@ -31,6 +31,7 @@ A very popular logging library that many people use with ASP.NET Core is [Serilo
 ## 3. Observability
 
 This includes a few things:
+
   2. Performance monitoring (P99, P95, P50)
   3. Metrics: Specific counters you or your business cares about
   4. Tracing: Being able to see the entire lifecycle of each request from frontend to API to data source.
