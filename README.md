@@ -129,8 +129,8 @@ ASP.NET Core has an extensible configuration mechanism. It can pull configuratio
 ### More information:
 
 - [MS Docs - Options Pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options)
-- [Steve Gordon - Using Configuration and Options in .NET Core and ASP.NET Core Apps](https://app.pluralsight.com/library/courses/dotnet-core-aspnet-core-configuration-options/)
-
+- [Steve Gordon - Using Configuration and Options in .NET Core and ASP.NET Core Apps](https://www.pluralsight.com/courses/dotnet-core-aspnet-core-configuration-options/)
+- 
 ## 11. Integration and Unit Tests
 
 ASP.NET Core has made it easy to write Unit tests by making the whole framework DI friendly. It has also made Integration tests easy by [`WebApplicationFactory`](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.testing.webapplicationfactory-1) Having automated tests saves a lot of time and makes your APIs more robust. And when writing integration tests, try to use the same database technology that you use for production. If you're using Postgres in production, don't use Sqlite or In-Memory DB Providers for integration tests.
