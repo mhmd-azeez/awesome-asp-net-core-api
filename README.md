@@ -138,7 +138,7 @@ ASP.NET Core has made it easy to write Unit tests by making the whole framework 
 ### More information:
 
 - [MS Docs - Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests)
-- [Steve Gordon - Integration Testing ASP.NET Core Applications: Best Practices](https://app.pluralsight.com/library/courses/integration-testing-asp-dot-net-core-applications-best-practices/table-of-contents)
+- [Steve Gordon - Integration Testing ASP.NET Core Applications: Best Practices](https://www.pluralsight.com/courses/integration-testing-asp-dot-net-core-applications-best-practices)
 
 ## 12. Build beautiful REST APIs
 
